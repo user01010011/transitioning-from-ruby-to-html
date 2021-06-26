@@ -1,4 +1,4 @@
-# transitioning-from-ruby-to-html
+# Transitioning From Ruby To Html
 
 ## Introduction
 In this course, we will take a short break from Ruby and will focus on HTML. You might wonder why we're changing from programming in Ruby, which feels like "doing programming," to focusing on HTML which feels like "writing words." Let's address that concern.
